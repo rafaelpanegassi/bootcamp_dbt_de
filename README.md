@@ -7,12 +7,12 @@ Este repositório é destinado as aulas dos alunos da jornada de dados que se en
 
 ### Projetos
 
-- [Projeto 01 - Relatório Analítico com SQL - Northwind Database](https://github.com/rafaelpanegassi/bootcamp_dbt_de/tree/main/dbt-core-northwind-project/northwind)
+- [Projeto 01 - Relatório Analítico com SQL - Northwind Database](https://github.com/rafaelpanegassi/northwind_project_dbt)
 
 ### Aulas
 
 - [Primeiro Dia - DBT Core Overview](https://github.com/rafaelpanegassi/bootcamp_dbt_de/tree/main)
 - [Segundo Dia - DBT Core](https://github.com/rafaelpanegassi/bootcamp_dbt_de/tree/main)
 - [Terceiro Dia - DBT Core Testes](https://github.com/rafaelpanegassi/bootcamp_dbt_de/tree/main)
-- [Quarto Dia - Projeto Northwind com DBT](https://github.com/rafaelpanegassi/bootcamp_dbt_de/tree/main/dbt-core-northwind-project/northwind)
-- [Quinto Dia - Projeto Northwind com DBT](https://github.com/rafaelpanegassi/bootcamp_dbt_de/tree/main/dbt-core-northwind-project/northwind)
+- [Quarto Dia - Projeto Northwind com DBT](https://github.com/rafaelpanegassi/northwind_project_dbt)
+- [Quinto Dia - Projeto Northwind com DBT](https://github.com/rafaelpanegassi/northwind_project_dbt)
